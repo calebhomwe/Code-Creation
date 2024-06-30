@@ -1,0 +1,13 @@
+PulseWave/
+├── index.html
+├── styles.css
+├── script.js
+├── shaders/
+│   ├── vertex.glsl
+│   └── fragment.glsl
+└── assets/
+    ├── audio.mp3
+    └── textures/
+        ├── texture1.jpg
+        └── texture2.jpg
+
